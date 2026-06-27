@@ -1,2 +1,2 @@
-Welcome to the feature development branch.
-This file introduces the new feature work.
+Welcome to the Git workflow project.
+This file introduces the feature development work in the feature branch.
