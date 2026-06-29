@@ -1,5 +1,7 @@
 # Git Workflow Mastery
 
+A concise, hands-on guide to essential Git workflow commands for everyday development.
+
 ## Overview
 This hands-on project teaches essential Git workflow commands for effective version control, collaboration, and project management.
 
