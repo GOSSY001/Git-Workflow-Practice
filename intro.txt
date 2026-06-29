@@ -1,0 +1,12 @@
+# Git Workflow Introduction
+
+Welcome to the Git Workflow Mastery project!
+
+This project provides hands-on exercises to master essential Git commands:
+- Repository initialization and configuration
+- Branch and commit management
+- Remote synchronization with GitHub
+- Pull requests and code review
+- Conflict resolution and advanced workflows
+
+Start with exercises.md to begin learning.
