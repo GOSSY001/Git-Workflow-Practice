@@ -1,2 +1,14 @@
 Welcome to the Git workflow project.
 This file introduces the feature development work in the feature branch.
+
+## Feature Branch Development
+This file demonstrates work done in a feature branch before merging to main.
+
+### Key Concepts:
+- Create isolated branches for features
+- Make commits with clear messages
+- Test changes locally before merging
+- Use pull requests for code review
+- Keep main branch stable
+
+Best practices for collaborative development with Git.
