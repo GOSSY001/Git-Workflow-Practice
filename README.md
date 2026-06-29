@@ -1,40 +1,34 @@
-# Git Workflow Mastery
+# Git Workflow Project
 
-A concise, hands-on guide to essential Git workflow commands for everyday development.
+In this project, you will master the essential Git workflow commands necessary for effective version control, a critical skill for collaboration and project management in software development.
 
-## Overview
-This hands-on project teaches essential Git workflow commands for effective version control, collaboration, and project management.
+## Project Goals
+
+- Learn to initialize a Git repository
+- Track and manage code changes with commits
+- Use branches for feature development
+- Merge changes and resolve conflicts
+- Synchronize with a remote repository on GitHub
 
 ## Prerequisites
-- Basic command-line knowledge
+
+- Basic understanding of command-line interfaces
 - Familiarity with Git concepts
-- GitHub account for remote sync
+- Access to a GitHub account for remote repository synchronization
 
-## Learning Objectives
-- Initialize and configure a Git repository
-- Create and manage branches and commits
-- Push and sync with GitHub remotes
-- Create and review pull requests
-- Resolve merge conflicts and use advanced commands (rebase, cherry-pick, revert)
+## Getting Started
 
-## Quick Start
-1. Clone or create a new repo locally:
+1. Open the terminal in this workspace.
+2. Run `git init` to initialize the repository.
+3. Create and edit files, then use `git add` and `git commit` to record changes.
+4. Create a GitHub repository and connect it with `git remote add origin <repo-url>`.
+5. Push changes with `git push -u origin main`.
 
-```bash
-git clone <your-remote-url> my-repo || mkdir my-repo && cd my-repo
-```
+## Recommended Tasks
 
-2. Run the setup script to initialize a local repo (optional):
+See `TASKS.md` for the step-by-step task list and Git commands.
 
-```bash
-bash setup_repo.sh
-```
+## Local Setup
 
-3. Follow the exercises in `exercises.md`.
-
-## Files
-- `exercises.md` — step-by-step exercises and sample commands
-- `setup_repo.sh` — optional helper to initialize a repo and make the first commit
-
-## Next steps
-Work through `exercises.md`. If you'd like, I can walk you through each exercise interactively or run the setup script in your workspace.
+- Git user: GOSSY001
+- Email: gyoung179@yahoo.com
