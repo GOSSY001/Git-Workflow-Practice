@@ -1,0 +1,2 @@
+Collaborative work simulation.
+This file represents a contribution made on the feature-collab branch.
